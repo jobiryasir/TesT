@@ -276,7 +276,6 @@ def menu():
     elif NOBODY in ['1']:
         crack_file()
     elif NOBODY in ['2','02']:880130570
-        os.system("python nono.py")
     elif NOBODY in ['3','03']:
         result()
     elif NOBODY in ['0']:
