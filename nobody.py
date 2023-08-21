@@ -270,7 +270,7 @@ def menu():
     print("""\033[97;1m[\033[92;1m0\033[97;1m] \033[0;91mEXIT""")
     print('\033[0;97m=================')
     NOBODY = input('\x1b[1;92m[+] CHOOSE: ')
-    if MAHDI in ['111']:
+    if NOBODY in ['111']:
         login()
         dump_massal()
     elif NOBODY in ['1']:
