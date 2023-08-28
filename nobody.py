@@ -505,7 +505,7 @@ def setting():
             id2.insert(xx,bacot)
     print('\033[0;91m==================')
     print('\033[0;91m==================')
-    print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show \033[0;91mCP ID Not Show\033[1;37m]")
+    print("\033[97;1m[\033[92;1m1\033[97;1m] METHOD 1 [\033[0;92mCookies Show\033[1;37m]")
     print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
